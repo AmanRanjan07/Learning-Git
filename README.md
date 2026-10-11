@@ -1,2 +1,2 @@
 # Learning-Git
-Knowledge about the git and Github
+Learning Git and GitHub.
